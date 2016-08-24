@@ -12,4 +12,4 @@ windows下 xcopy /t  dir1 dir2
 
   > sbt
     
-    >assembly 
+  > assembly 
