@@ -8,3 +8,8 @@
 windows下 xcopy /t  dir1 dir2 
 
 只拷贝目录结构
+
+
+  > sbt
+    
+    >assembly 
